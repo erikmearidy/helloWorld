@@ -1,2 +1,2 @@
 # helloWorld
-/* Erik Mearidy */
+Erik Mearidy 
