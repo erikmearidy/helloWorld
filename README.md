@@ -1,3 +1,3 @@
 # helloWorld
-Erik Mearidy 
+Erik L. Mearidy 
 08/28/18
